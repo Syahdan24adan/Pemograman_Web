@@ -20,4 +20,6 @@
  
   `npx prisma db push --preview-feature`
   
+ ## Run server
  
+  `npm start`
